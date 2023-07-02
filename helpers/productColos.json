@@ -1,0 +1,511 @@
+[
+    {
+        "brand"      : "Omega",
+        "subbrand"   : "Abuelita",
+        "slug"       : "omega_abuelita_01_blanco_50g",
+        "color"      : [
+            { "color" : "blanco",  "hex" : "#fafafa", "img" : "" },
+            { "color" : "canario", "hex" : "#fcd34d", "img" : "" },
+            { "color" : "paga",    "hex" : "#fefce8", "img" : ""  },
+            { "color" : "mango",   "hex" : "#fdba74", "img" : ""  },
+            { "color" : "amarillo", "hex" : "#fef08a", "img" : ""  },
+            { "color" : "salmon",  "hex" : "#fda4af", "img" : ""  },
+            { "color" : "melon",   "hex" : "#fed7aa", "img" : "" },
+            { "color" : "carne",   "hex" : "#fff1f2", "img" : "" },
+            { "color" : "mandarina", "hex" : "#fb923c", "img" : "" },
+            { "color" : "crudo",    "hex" : "#f5f5f5", "img" : ""  },
+            { "color" : "beige",    "hex" : "#eab308", "img" : ""  },
+            { "color" : "calabaza", "hex" : "#ef4444", "img" : ""  },
+            { "color" : "canela",   "hex" : "#dc2626", "img" : ""  },
+            { "color" : "kaki",     "hex" : "#fbbf24", "img" : ""  },
+            { "color" : "camello",  "hex" : "#eab308", "img" : ""  },
+            { "color" : "tabaco",   "hex" : "#a16207", "img" : ""  },
+            { "color" : "chedron",  "hex" : "#991b1b", "img" : ""  },
+            { "color" : "cafe",     "hex" : "#9a3412", "img" : ""  },
+            { "color" : "chocolate","hex" : "#7c2d12", "img" : ""  },
+            { "color" : "rosaniña", "hex" : "#fecdd3", "img" : ""  },
+            { "color" : "rosa",     "hex" : "#fecdd3", "img" : ""  },
+            { "color" : "fiusha",   "hex" : "#fb7185", "img" : ""  },
+            { "color" : "palo_de_rosa", "hex" : "#fda4af", "img" : ""  },
+            { "color" : "rosa_mexicano", "hex" : "#f472b6", "img" : ""  },
+            { "color" : "rojo",     "hex" : "#fee2e2", "img" : ""  },
+            { "color" : "guinda",   "hex" : "#dc2626", "img" : ""  },
+            { "color" : "naranja",  "hex" : "#fb923c", "img" : ""  },
+            { "color" : "granada",  "hex" : "#b91c1c", "img" : ""  },
+            { "color" : "carmin",   "hex" : "#ef4444", "img" : ""  },
+            { "color" : "vino",     "hex" : "#7f1d1d", "img" : ""  },
+            { "color" : "violeta",  "hex" : "#f3e8ff", "img" : ""  },
+            { "color" : "bugambilia", "hex" : "#a21caf", "img" : ""  },
+            { "color" : "purpura",  "hex" : "#a855f7", "img" : ""  },
+            { "color" : "morado",   "hex" : "#d8b4fe", "img" : ""  },
+            { "color" : "cielo",    "hex" : "#e0f2fe", "img" : ""  },
+            { "color" : "azul",     "hex" : "#dbeafe", "img" : ""  },
+            { "color" : "pizarra",  "hex" : "#0891b2", "img" : ""  },
+            { "color" : "azul_marino", "hex" : "#1d4ed8", "img" : ""  },
+            { "color" : "rey",      "hex" : "#3b82f6", "img" : ""   },
+            { "color" : "azul_frances", "hex" : "#2563eb", "img" : ""  },
+            { "color" : "aqua",     "hex" : "#a5f3fc", "img" : ""  },
+            { "color" : "turquesa", "hex" : "#7dd3fc", "img" : ""  },
+            { "color" : "menta",    "hex" : "#ecfccb", "img" : ""  },
+            { "color" : "botella",  "hex" : "#166534", "img" : ""  },
+            { "color" : "verde",    "hex" : "#4ade80", "img" : ""  },
+            { "color" : "verde_aguacate", "hex" : "#bef264", "img" : ""  },
+            { "color" : "verde_limon",  "hex" : "#a3e635", "img" : ""  },
+            { "color" : "verde_pardera", "hex" : "#16a34a", "img" : ""  },
+            { "color" : "esmeralda",    "hex" : "#6ee7b7", "img" : ""  },
+            { "color" : "bandera",  "hex" : "#22c55e", "img" : ""  },
+            { "color" : "olivo",    "hex" : "#4d7c0f", "img" : ""  },
+            { "color" : "grisclaro",    "hex" : "#f3f4f6", "img" : ""  },
+            { "color" : "grisoscuro",   "hex" : "#9ca3af", "img" : ""  },
+            { "color" : "negro",    "hex" : "#0f172a", "img" : "" }
+        ]            
+    },
+    {
+        "brand"      : "Omega",
+        "subbrand"   : "Lureta Merlot",
+        "slug"       : "omega_lureta_merlot_1807_jamaica_100g",
+        "color"      : [
+            { "color" : "jamaica", "hex" : "#b91c1c", "img" : "" },
+            { "color" : "ocote", "hex" : "#fde047", "img" : "" },
+            { "color" : "tamarindo", "hex" : "#a16207", "img" : "" }
+        ]
+    },
+    {
+        "brand"      : "Omega",
+        "subbrand"   : "Lureta Cascada",
+        "slug"       : "omega_lureta_cascada_406_macarena_50g",
+        "color"      : [
+            { "color" : "macarena", "hex" : "#b91c1c", "img" : "" },
+            { "color" : "tugela", "hex" : "#fde047", "img" : "" },
+            { "color" : "yeita", "hex" : "#a16207", "img" : "" },
+            { "color" : "qadisha", "hex" : "#a16207", "img" : "" },
+            { "color" : "niagara", "hex" : "#a16207", "img" : "" }
+        ]
+    },
+    {
+        "brand"      : "Omega",
+        "subbrand"   : "Lureta Fetuccina",
+        "slug"       : "omega_lureta_fetuccina_601_blanco_50g",
+        "color"      : [
+            { "color" : "blanco", "hex" : "#f8fafc", "img" : "" },
+            { "color" : "denim", "hex" : "#ffedd5", "img" : "" },
+            { "color" : "chocolate", "hex" : "#92400e", "img" : "" },
+            { "color" : "kaki", "hex" : "#fbbf24", "img" : "" },
+            { "color" : "negro", "hex" : "#020617", "img" : "" },
+            { "color" : "fiusha", "hex" : "#f0abfc", "img" : "" },
+            { "color" : "beige", "hex" : "#fffbeb", "img" : "" },
+            { "color" : "rosa", "hex" : "#fbcfe8", "img" : "" },
+            { "color" : "pink", "hex" : "#f472b6", "img" : "" },
+            { "color" : "noir", "hex" : "#d4d4d4", "img" : "" }
+        ]
+    },
+    {
+        "brand"      : "Omega",
+        "subbrand"   : "Lureta Fiore",
+        "slug"       : "omega_lureta_fiore_801_blanco_50g",
+        "color"      : [
+            { "color" : "blanco",  "hex" : "#f8fafc", "img" : "" },
+            { "color" : "lila",    "hex" : "#c4b5fd", "img" : "" },
+            { "color" : "beige",   "hex" : "#fffbeb", "img" : "" },            
+            { "color" : "durazno", "hex" : "#ffedd5", "img" : "" },
+            { "color" : "violeta", "hex" : "#8b5cf6", "img" : "" },
+            { "color" : "chedron", "hex" : "#be123c", "img" : "" }
+        ]
+    },
+    {
+        "brand"      : "Omega",
+        "subbrand"   : "Lureta Super Bombon",
+        "slug"       : "omega_lureta_super_bombon_1529_verdepasto_100g",
+        "color"      : [
+            { "color" : "verdepasto",  "hex" : "#15803d", "img" : "" },
+            { "color" : "azulrey",    "hex" : "#1d4ed8", "img" : "" }
+        ]
+    },
+    {
+        "brand"      : "Omega",
+        "subbrand"   : "Trigo",
+        "slug"       : "omega_trigo_237_bugambilia_100g",
+        "color"      : [
+            { "color" : "blanco",  "hex" : "#f8fafc", "img" : "" },
+            { "color" : "bugambilia",  "hex" : "#7e22ce", "img" : "" },
+            { "color" : "paloderosa",  "hex" : "#fda4af", "img" : "" },
+            { "color" : "malva",  "hex" : "#d8b4fe", "img" : "" },            
+            { "color" : "negro",  "hex" : "#020617", "img" : "" },
+            { "color" : "grosella",  "hex" : "#9f1239", "img" : "" },
+            { "color" : "grisceniza",  "hex" : "#e5e7eb", "img" : "" },
+            { "color" : "aguaazul",  "hex" : "#93c5fd", "img" : "" },
+            { "color" : "aceituna",  "hex" : "#65a30d", "img" : "" },
+            { "color" : "cafe",     "hex" : "#9a3412", "img" : ""  },
+            { "color" : "azul",     "hex" : "#dbeafe", "img" : ""  },
+            { "color" : "rojo",  "hex" : "#dc2626", "img" : "" },
+            { "color" : "oro",  "hex" : "#fcd34d", "img" : "" },
+            { "color" : "avellana",  "hex" : "#fef9c3", "img" : "" }
+        ]
+    },
+    {
+        "brand"      : "Nako",
+        "subbrand"   : "Elite Baby",
+        "slug"       : "nako_elitebaby_3664_amarillo_100g",
+        "color"      : [
+            { "color" : "amarillo", "hex" : "#fef08a", "img" : ""  },
+            { "color" : "turquesa", "hex" : "#7dd3fc", "img" : ""  },
+            { "color" : "rosa",     "hex" : "#fecdd3", "img" : ""  },
+            { "color" : "beige",    "hex" : "#eab308", "img" : ""  },
+            { "color" : "cafe",     "hex" : "#9a3412", "img" : ""  },
+            { "color" : "azulcielo",    "hex" : "#e0f2fe", "img" : ""  },
+            { "color" : "grisclaro",    "hex" : "#f3f4f6", "img" : ""  },
+            { "color" : "menta",    "hex" : "#ecfccb", "img" : ""  },
+            { "color" : "salmon",  "hex" : "#fda4af", "img" : ""  }
+        ]
+    },
+    {
+        "brand"      : "Nako",
+        "subbrand"   : "Renki Masal",
+        "slug"       : "nako_renki_masal_32095_crudo_100g",
+        "color"      : [
+            { "color" : "crudo",    "hex" : "#f5f5f5", "img" : ""  }
+        ]
+    },
+    {
+        "brand"      : "Nako",
+        "subbrand"   : "Bebe Color",
+        "slug"       : "nako_bebe_color_31909_lila_100g",
+        "color"      : [
+            { "color" : "lila",    "hex" : "#c4b5fd", "img" : "" }
+        ]
+    },
+    {
+        "brand"      : "Nako",
+        "subbrand"   : "Luks Minnos Petit",
+        "slug"       : "nako_bebe_color_31909_lila_100g",
+        "color"      : [
+            { "color" : "matizadoamarillo", "hex" : "#c4b5fd", "img" : "" },
+            { "color" : "matizadorosa", "hex" : "#c4b5fd", "img" : "" },
+            { "color" : "matizadoverde", "hex" : "#c4b5fd", "img" : "" },
+            { "color" : "menta",    "hex" : "#ecfccb", "img" : ""  },
+            { "color" : "marino", "hex" : "#1d4ed8", "img" : ""  },
+            { "color" : "cielo",    "hex" : "#e0f2fe", "img" : ""  },
+            { "color" : "canario", "hex" : "#fcd34d", "img" : "" },
+            { "color" : "morado",   "hex" : "#d8b4fe", "img" : ""  },
+            { "color" : "grisoxford",   "hex" : "#9ca3af", "img" : ""  },
+            { "color" : "durazno", "hex" : "#ffedd5", "img" : "" }
+        ]
+    },
+    {
+        "brand"      : "Nako",
+        "subbrand"   : "Angora Luks",
+        "slug"       : "nako_angora_luks_1175_rojo_100g",
+        "color"      : [
+            { "color" : "beige",    "hex" : "#eab308", "img" : ""  },
+            { "color" : "rojo",  "hex" : "#dc2626", "img" : "" },
+            { "color" : "cafeclaro", "hex" : "#c4b5fd", "img" : "" },
+            { "color" : "uva",   "hex" : "#d8b4fe", "img" : ""  },
+            { "color" : "negro",    "hex" : "#0f172a", "img" : "" },
+            { "color" : "crema",    "hex" : "#fef9c3", "img" : ""  },
+            { "color" : "beigeclaro",    "hex" : "#f5f5f5", "img" : ""  },
+            { "color" : "grisoscuro",   "hex" : "#9ca3af", "img" : ""  },
+            { "color" : "mostaza",   "hex" : "#eab308", "img" : ""  },
+            { "color" : "rojoquemado",  "hex" : "#b91c1c", "img" : ""  },
+            { "color" : "matizadorosaclaro",  "hex" : "#be185d", "img" : ""  }
+        ]
+    },
+    {
+        "brand"      : "Nako",
+        "subbrand"   : "Angora Luks Color",
+        "slug"       : "nako_angora_luks_color_81916_grisconrosa_150g",
+        "color"      : [            
+            { "color" : "grisconrosa",  "hex" : "#f5d0fe", "img" : ""  }
+        ]
+    },
+    {
+        "brand"      : "Nako",
+        "subbrand"   : "Natural Baby",
+        "slug"       : "nako_natural_baby_11621_rosa_100g",
+        "color"      : [            
+            { "color" : "rosa",     "hex" : "#fecdd3", "img" : ""  },
+            { "color" : "crudo",    "hex" : "#f5f5f5", "img" : ""  },
+            { "color" : "azul",     "hex" : "#dbeafe", "img" : ""  },
+            { "color" : "cafe",     "hex" : "#9a3412", "img" : ""  },
+            { "color" : "amarillo", "hex" : "#fef08a", "img" : ""  },
+            { "color" : "beige",    "hex" : "#eab308", "img" : ""  }
+        ]
+    },
+    {
+        "brand"      : "Nako",
+        "subbrand"   : "Baby Angel",
+        "slug"       : "nako_baby_angel_70293_rosa_100g",
+        "color"      : [            
+            { "color" : "rosa",     "hex" : "#fecdd3", "img" : ""  },
+            { "color" : "naranja",  "hex" : "#fb923c", "img" : ""  },
+            { "color" : "azul",     "hex" : "#dbeafe", "img" : ""  },
+            { "color" : "cafe",     "hex" : "#9a3412", "img" : ""  }            
+        ]
+    },
+    {
+        "brand"      : "Nako",
+        "subbrand"   : "Bebe 100",
+        "slug"       : "nako_bebe_100_4710_menta_100g",
+        "color"      : [            
+            { "color" : "menta",    "hex" : "#ecfccb", "img" : ""  },
+            { "color" : "blanco",  "hex" : "#fafafa", "img" : "" },
+            { "color" : "rosa",     "hex" : "#fecdd3", "img" : ""  },
+            { "color" : "amarillo", "hex" : "#fef08a", "img" : ""  },
+            { "color" : "azul",     "hex" : "#dbeafe", "img" : ""  },
+            { "color" : "gris",    "hex" : "#f3f4f6", "img" : ""  },
+            { "color" : "azulmarino", "hex" : "#1d4ed8", "img" : ""  }
+        ]
+    },
+    {
+        "brand"      : "Nako",
+        "subbrand"   : "Calico",
+        "slug"       : "nako_calico_148_azulmarino_100g",
+        "color"      : [  
+            { "color" : "azulmarino", "hex" : "#1d4ed8", "img" : ""  },
+            { "color" : "blanco",  "hex" : "#fafafa", "img" : "" },
+            { "color" : "verde",    "hex" : "#4ade80", "img" : ""  },
+            { "color" : "fiusha",   "hex" : "#fb7185", "img" : ""  },
+            { "color" : "rojo",     "hex" : "#fee2e2", "img" : ""  },
+            { "color" : "paloderosa", "hex" : "#fda4af", "img" : ""  },
+            { "color" : "crudo",    "hex" : "#f5f5f5", "img" : ""  },
+            { "color" : "beige",    "hex" : "#eab308", "img" : ""  },
+            { "color" : "pistache",    "hex" : "#6ee7b7", "img" : ""  }            
+        ]
+    },
+    {
+        "brand"      : "Nako",
+        "subbrand"   : "Ombre",
+        "slug"       : "nako_ombre_20308_vinosmatizados_100g",
+        "color"      : [
+            { "color" : "cafeclaro",   "hex" : "#a16207", "img" : ""  },
+            { "color" : "cafeoscuro",     "hex" : "#9a3412", "img" : ""  },
+            { "color" : "vinosmatizados",     "hex" : "#7f1d1d", "img" : ""  },
+            { "color" : "hueso", "hex" : "#fffbeb", "img" : ""  },
+            { "color" : "mostaza",   "hex" : "#eab308", "img" : ""  },
+            { "color" : "turquesa", "hex" : "#7dd3fc", "img" : ""  },
+            { "color" : "rojo",     "hex" : "#fee2e2", "img" : ""  },          
+            { "color" : "blancocongris",  "hex" : "#e7e5e4", "img" : "" }
+        ]
+    },
+    {
+        "brand"      : "Nako",
+        "subbrand"   : "Super Inci Hit Tweed",
+        "slug"       : "nako_super_inci_hit_Tweed_208_negroconblanco_100g",
+        "color"      : [
+            { "color" : "negroconblanco", "hex" : "#cbd5e1", "img" : ""  },
+            { "color" : "colorescongrisclaro", "hex" : "#d1d5db", "img" : ""  },
+            { "color" : "azulesconbeigeoscuro", "hex" : "#dbeafe", "img" : ""  },
+            { "color" : "beigeconvino", "hex" : "#ede9fe", "img" : ""  }
+        ]
+    },
+    {
+        "brand"      : "Nako",
+        "subbrand"   : "Vals Liso",
+        "slug"       : "nako_vals_liso_219_beige_100g",
+        "color"      : [
+            { "color" : "beige",    "hex" : "#eab308", "img" : ""  },
+            { "color" : "cafeclaro",   "hex" : "#a16207", "img" : ""  },
+            { "color" : "mostaza",   "hex" : "#eab308", "img" : ""  }
+        ]
+    },
+    {
+        "brand"      : "Nako",
+        "subbrand"   : "Vals Matizado",
+        "slug"       : "nako_vals_matizado_87134_rosaconverde_100g",
+        "color"      : [
+            { "color" : "rosaconverde",    "hex" : "#fae8ff", "img" : ""  },
+            { "color" : "lilaconmorado",   "hex" : "#d946ef", "img" : ""  },
+            { "color" : "cafeconrojoymorado",   "hex" : "#b91c1c", "img" : ""  }
+        ]
+    },
+    {
+        "brand"      : "Nako",
+        "subbrand"   : "Vega",
+        "slug"       : "nako_vega_6679_beigeclaro_100g",
+        "color"      : [
+            { "color" : "beigeclaro",    "hex" : "#f5f5f5", "img" : ""  },
+            { "color" : "vino",     "hex" : "#7f1d1d", "img" : ""  },
+            { "color" : "blanco",  "hex" : "#fafafa", "img" : "" },
+            { "color" : "marino", "hex" : "#1d4ed8", "img" : ""  },
+            { "color" : "fiusha",   "hex" : "#fb7185", "img" : ""  },
+            { "color" : "grisoscuro",   "hex" : "#9ca3af", "img" : ""  },
+            { "color" : "azul",     "hex" : "#dbeafe", "img" : ""  },
+            { "color" : "hueso", "hex" : "#fffbeb", "img" : ""  },
+            { "color" : "rosa",     "hex" : "#fecdd3", "img" : ""  },
+            { "color" : "mostaza",   "hex" : "#eab308", "img" : ""  },
+            { "color" : "cafe",     "hex" : "#9a3412", "img" : ""  },
+            { "color" : "beigeoscuro",   "hex" : "#a16207", "img" : ""  },
+            { "color" : "blancoconnegrogris",   "hex" : "#475569", "img" : ""  }
+        ]
+    },
+    {
+        "brand"      : "Nako",
+        "subbrand"   : "Paris",
+        "slug"       : "nako_paris_3079_lila_100g",
+        "color"      : [
+            { "color" : "lila",    "hex" : "#c4b5fd", "img" : "" },
+            { "color" : "vino",     "hex" : "#7f1d1d", "img" : ""  },
+            { "color" : "rosa",     "hex" : "#fecdd3", "img" : ""  },
+            { "color" : "cafe",     "hex" : "#9a3412", "img" : ""  },
+            { "color" : "beige",    "hex" : "#eab308", "img" : ""  },
+            { "color" : "azul",     "hex" : "#dbeafe", "img" : ""  }
+        ]
+    },
+    {
+        "brand"      : "Nako",
+        "subbrand"   : "Sport Wool",
+        "slug"       : "nako_sport_wool_6592_rojo_100g",
+        "color"      : [
+            { "color" : "rojo",     "hex" : "#fee2e2", "img" : ""  },
+            { "color" : "negro",    "hex" : "#0f172a", "img" : "" },
+            { "color" : "turquesa", "hex" : "#7dd3fc", "img" : ""  },
+            { "color" : "vino",     "hex" : "#7f1d1d", "img" : ""  },
+            { "color" : "cafe",     "hex" : "#9a3412", "img" : ""  },
+            { "color" : "paloderosa",  "hex" : "#fda4af", "img" : "" }
+        ]
+    },
+    {
+        "brand"      : "Nako",
+        "subbrand"   : "Saten",
+        "slug"       : "nako_saten_187_morado_100g",
+        "color"      : [
+            { "color" : "morado", "hex" : "#d8b4fe", "img" : ""  },
+            { "color" : "coral", "hex" : "#fca5a5", "img" : ""  },
+            { "color" : "blanco",  "hex" : "#fafafa", "img" : "" },
+            { "color" : "azulturquesa", "hex" : "#7dd3fc", "img" : ""  },
+            { "color" : "rojo",     "hex" : "#fee2e2", "img" : ""  },
+            { "color" : "amarillo", "hex" : "#fef08a", "img" : ""  },
+            { "color" : "negro",    "hex" : "#0f172a", "img" : "" },
+            { "color" : "gris",    "hex" : "#f3f4f6", "img" : ""  },
+            { "color" : "beige",    "hex" : "#eab308", "img" : ""  }
+        ]
+    },
+    {
+        "brand"      : "Nako",
+        "subbrand"   : "Bebe Color",
+        "slug"       : "nako_bebe_color_31745_motasazul_100g",
+        "color"      : [
+            { "color" : "motasazul", "hex" : "#1e40af", "img" : ""  }
+        ]
+    },
+    {
+        "brand"      : "Nako",
+        "subbrand"   : "Mohair Delicate Colorflow",
+        "slug"       : "nako_mohair_delicate_colorflow_28098_lila_100g",
+        "color"      : [
+            { "color" : "lila", "hex" : "#c4b5fd", "img" : "" },
+            { "color" : "azul", "hex" : "#dbeafe", "img" : "" }
+        ]
+    },
+    {
+        "brand"      : "Alize",
+        "subbrand"   : "Bebe Flower",
+        "slug"       : "alize_bebe_flower_5517_rosa_100g",
+        "color"      : [
+            { "color" : "rosa", "hex" : "#fecdd3", "img" : ""  }
+        ]
+    },
+    {
+        "brand"      : "Alize",
+        "subbrand"   : "Happy Bebe Soft",
+        "slug"       : "alize_happy_bebe_soft_556_durazno_100g",
+        "color"      : [
+            { "color" : "blanco", "hex" : "#fafafa", "img" : "" },
+            { "color" : "negro", "hex" : "#0f172a", "img" : "" },
+            { "color" : "rosa", "hex" : "#fecdd3", "img" : ""  },
+            { "color" : "durazno", "hex" : "#fdba74", "img" : ""  }
+        ]
+    },
+    {
+        "brand"      : "Alize",
+        "subbrand"   : "Burcom Bebe Batik",
+        "slug"       : "alize_burcom_bebe_batik_6616_beige_100g",
+        "color"      : [
+            { "color" : "beige", "hex" : "#eab308", "img" : ""  },
+            { "color" : "azul",  "hex" : "#dbeafe", "img" : ""  }
+        ]
+    },
+    {
+        "brand"      : "Alize",
+        "subbrand"   : "Burcom Batik",
+        "slug"       : "alize_burcom_batik_3379_cafe_100g",
+        "color"      : [            
+            { "color" : "cafe",  "hex" : "#9a3412", "img" : ""  }
+        ]
+    },
+    {
+        "brand"      : "Alize",
+        "subbrand"   : "Superlana Klasik",
+        "slug"       : "alize_superlana_klasik_60_negro_100g",
+        "color"      : [ 
+            { "color" : "negro", "hex" : "#0f172a", "img" : "" },            
+            { "color" : "mostaza", "hex" : "#eab308", "img" : "" },
+            { "color" : "cafe", "hex" : "#9a3412", "img" : "" },
+            { "color" : "matizadonegro", "hex" : "#cbd5e1", "img" : "" }
+
+        ]
+    },
+    {
+        "brand"      : "Alize",
+        "subbrand"   : "Angora Gold Simli con Brillitos",
+        "slug"       : "alize_angora_gold_simli_con_brillitos_681_durazno_100g",
+        "color"      : [ 
+            { "color" : "durazno", "hex" : "#fdba74", "img" : ""  },
+            { "color" : "oro", "hex" : "#fbbf24", "img" : "" },            
+            { "color" : "rojo",     "hex" : "#fee2e2", "img" : ""  },
+            { "color" : "beige",    "hex" : "#eab308", "img" : ""  },
+            { "color" : "turquesa", "hex" : "#7dd3fc", "img" : ""  }
+        ]
+    },
+    {
+        "brand"      : "Alize",
+        "subbrand"   : "Angora Gold Ombre Batik",
+        "slug"       : "alize_angora_gold_ombre_batik_7355_verdeseco_150g",
+        "color"      : [ 
+            { "color" : "verdeseco", "hex" : "#16a34a", "img" : ""  },
+            { "color" : "mostaza", "hex" : "#eab308", "img" : "" },
+            { "color" : "cafe", "hex" : "#9a3412", "img" : "" },
+            { "color" : "azulmarino", "hex" : "#1d4ed8", "img" : "" }
+        ]
+    }
+    
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
